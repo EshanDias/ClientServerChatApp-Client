@@ -16,5 +16,6 @@ namespace ChatApp_Client
         {
             InitializeComponent();
         }
+
     }
 }
